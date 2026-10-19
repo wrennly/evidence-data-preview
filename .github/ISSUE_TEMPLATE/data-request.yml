@@ -1,0 +1,45 @@
+name: 用途・必要なデータを伝える / Data use case
+description: 欲しい範囲・形式・価格への意見を共有する（公開コメント）
+title: "[Use case] "
+body:
+  - type: markdown
+    attributes:
+      value: "ここへの入力は公開されます。機密資料・個人情報は記載しないでください。注文・予約ではありません。"
+  - type: textarea
+    id: workflow
+    attributes:
+      label: どの業務・ツールで使いますか？
+      description: 現在の方法や、困っている工程も分かれば記載してください。
+    validations:
+      required: true
+  - type: textarea
+    id: coverage
+    attributes:
+      label: 必要な発注元・地域・項目・更新頻度
+    validations:
+      required: true
+  - type: dropdown
+    id: format
+    attributes:
+      label: 希望する形式
+      options:
+        - CSV
+        - JSON / REST API
+        - MCP
+        - 今の方法で十分
+        - まだ決められない
+    validations:
+      required: true
+  - type: dropdown
+    id: price
+    attributes:
+      label: 想定価格への反応（購入の約束ではありません）
+      options:
+        - 範囲が合えば一回4980円の試用を検討したい
+        - 範囲が合えばCSV月9800円を検討したい
+        - 範囲が合えばAPI/MCP月19800円を検討したい
+        - 無料なら使いたい
+        - この用途には支払わない
+        - 条件が足りず判断できない
+    validations:
+      required: true

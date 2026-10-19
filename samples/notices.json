@@ -1,0 +1,331 @@
+{
+  "schema_version": "0.1",
+  "publisher": "Wrennly / Evidence Data API",
+  "release_type": "public_historical_format_preview",
+  "scope": "5 selected documents representing 5 cases, from one publisher; not a live tender feed",
+  "extraction_method": "One-off Codex extraction and a separate Codex semantic review; not an unattended pipeline",
+  "license_notes": "See DATA-NOTES.md. Source material is not relicensed as our original work.",
+  "records": [
+    {
+      "id": "video-html",
+      "case_id": "video",
+      "source_url": "https://www.env.go.jp/kanbo/chotatsu/chotatsu_03842.html",
+      "observed_at": "2026-10-19T05:49:48.881686Z",
+      "source_raw_sha256": "f558c167edb6a5497fab4e5a8e692f563466257d7a689ff3ab07c311acac54ef",
+      "normalized_text_sha256": "b3be1a6e3037f9401212f76628ca3005d4274d100100c575777b8e788bef1a3b",
+      "source_kind": "html",
+      "sector": "media",
+      "historical_format_example": true,
+      "current_application_status": "not_verified",
+      "attribution": "出典：環境省ホームページ（各原資料URL）。Evidence Data APIが項目を抽出・加工。環境省作成の未加工データではありません。",
+      "fields": {
+        "title": {
+          "value_raw": "令和８年度地域脱炭素推進に向けた情報交換会開催・運営及び概算要求映像作成委託業務［総合評価落札方式］",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（１）件名\n令和８年度地域脱炭素推進に向けた情報交換会開催・運営及び概算要求映像作成委託業務［総合評価落札方式］",
+            "start": 868,
+            "end": 924,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "budget": {
+          "value_raw": null,
+          "status": "not_stated_in_examined_document",
+          "evidence": null
+        },
+        "proposal_deadline": {
+          "value_raw": "令和８年４月６日（月）１７時００分まで",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（１）提案書の提出について\n期限　令和８年４月６日（月）１７時００分まで",
+            "start": 2110,
+            "end": 2146,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "bid_submission_deadline": {
+          "value_raw": null,
+          "status": "not_stated_in_examined_document",
+          "evidence": null
+        },
+        "delivery_deadline": {
+          "value_raw": "令和９年３月３１日",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（３）納入期限\n令和９年３月３１日",
+            "start": 942,
+            "end": 959,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "qualification_grades": {
+          "value_raw": "「Ａ」、「Ｂ」、「Ｃ」又は「Ｄ」級",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（４）令和０７・０８・０９年度環境省競争参加資格（全省庁統一資格）「役務の提供等」の「調査・研究」又は「その他」において、開札時までに「Ａ」、「Ｂ」、「Ｃ」又は「Ｄ」級に格付されている者であること。",
+            "start": 1424,
+            "end": 1523,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        }
+      }
+    },
+    {
+      "id": "system-html",
+      "case_id": "system",
+      "source_url": "https://www.env.go.jp/kanbo/chotatsu/chotatsu_04376.html",
+      "observed_at": "2026-10-19T05:49:53.964635Z",
+      "source_raw_sha256": "c7b92c7cd3de926667dbe04dc86bf4d287066bf226cf98ed8d44e1ee0cb9d14d",
+      "normalized_text_sha256": "4d135cc6990c136920358ffb9a085abb967c5a722cfe790b9ebccad8a50a7fb8",
+      "source_kind": "html",
+      "sector": "software",
+      "historical_format_example": true,
+      "current_application_status": "not_verified",
+      "attribution": "出典：環境省ホームページ（各原資料URL）。Evidence Data APIが項目を抽出・加工。環境省作成の未加工データではありません。",
+      "fields": {
+        "title": {
+          "value_raw": "令和８年度Ｊ－クレジット制度におけるMRV支援システムの運用支援等委託業務【総合評価落札方式】",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（１）件　　名　令和８年度Ｊ－クレジット制度におけるMRV支援システムの運用支援等委託業務【総合評価落札方式】",
+            "start": 787,
+            "end": 842,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "budget": {
+          "value_raw": null,
+          "status": "not_stated_in_examined_document",
+          "evidence": null
+        },
+        "proposal_deadline": {
+          "value_raw": "令和8年10月15日(木)　17時00分まで",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（１）環境省競争参加資格（全省庁統一資格）審査結果通知書（写し）及び提案書の提出について\n期限　　令和8年10月15日(木)　17時00分まで",
+            "start": 2133,
+            "end": 2204,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "bid_submission_deadline": {
+          "value_raw": null,
+          "status": "not_stated_in_examined_document",
+          "evidence": null
+        },
+        "delivery_deadline": {
+          "value_raw": "令和9年3月31日(水)",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（３）納入期限　令和9年3月31日(水)",
+            "start": 860,
+            "end": 880,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "qualification_grades": {
+          "value_raw": "「Ａ」、「Ｂ」、「Ｃ」又は「Ｄ」級",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（４）令和０７・０８・０９年度環境省競争参加資格（全省庁統一資格）「役務の提供等」の「調査・研究」において、開札時までに「Ａ」、「Ｂ」、「Ｃ」又は「Ｄ」級に格付されている者であること。",
+            "start": 1344,
+            "end": 1436,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        }
+      }
+    },
+    {
+      "id": "impact-html",
+      "case_id": "impact",
+      "source_url": "https://www.env.go.jp/kanbo/chotatsu/chotatsu_04392.html",
+      "observed_at": "2026-10-19T05:49:59.096456Z",
+      "source_raw_sha256": "b1419a09fc20de5d8344daaf821a18d4e576558738939498e13034ba540ac9ac",
+      "normalized_text_sha256": "0817db11072444d311a6cb9f48111fd6e7e885252d0e4d418edf55bfcff1fa03",
+      "source_kind": "html",
+      "sector": "research",
+      "historical_format_example": true,
+      "current_application_status": "not_verified",
+      "attribution": "出典：環境省ホームページ（各原資料URL）。Evidence Data APIが項目を抽出・加工。環境省作成の未加工データではありません。",
+      "fields": {
+        "title": {
+          "value_raw": "令和８年度環境分野におけるインパクト投資に関する調査委託業務 〔総合評価落札方式〕",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（１）件名　　　令和８年度環境分野におけるインパクト投資に関する調査委託業務 〔総合評価落札方式〕",
+            "start": 744,
+            "end": 793,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "budget": {
+          "value_raw": null,
+          "status": "not_stated_in_examined_document",
+          "evidence": null
+        },
+        "proposal_deadline": {
+          "value_raw": "令和８年 10 月 29 日（木） 17 時まで",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（１）提案書の提出について\n期限　 令和８年 10 月 29 日（木） 17 時まで",
+            "start": 2010,
+            "end": 2052,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "bid_submission_deadline": {
+          "value_raw": null,
+          "status": "not_stated_in_examined_document",
+          "evidence": null
+        },
+        "delivery_deadline": {
+          "value_raw": "令和９年３月 30 日（火）",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（３）納入期限　令和９年３月 30 日（火）",
+            "start": 812,
+            "end": 834,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "qualification_grades": {
+          "value_raw": "「Ａ」、「Ｂ」、「Ｃ」又は\n「Ｄ」級",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（４）令和０７・０８・０９年度環境省競争参加資格（全省庁統一資格）「役務の提供等」の「調査・研究」において、開札時までに「Ａ」、「Ｂ」、「Ｃ」又は\n「Ｄ」級に格付されている者であること。",
+            "start": 1304,
+            "end": 1397,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        }
+      }
+    },
+    {
+      "id": "gx-html",
+      "case_id": "gx",
+      "source_url": "https://www.env.go.jp/kanbo/chotatsu/chotatsu_04399.html",
+      "observed_at": "2026-10-19T05:50:04.172376Z",
+      "source_raw_sha256": "b8615b1a5508cfe70dd091c9e179a06c33885f7948b49fe828904f2e5e5f7177",
+      "normalized_text_sha256": "9a4972babf17ccabd3c4ae478bd9b9ec58e18f44bce11c8ddd5b2b4388771851",
+      "source_kind": "html",
+      "sector": "research",
+      "historical_format_example": true,
+      "current_application_status": "not_verified",
+      "attribution": "出典：環境省ホームページ（各原資料URL）。Evidence Data APIが項目を抽出・加工。環境省作成の未加工データではありません。",
+      "fields": {
+        "title": {
+          "value_raw": "令和８年度福島復興現場におけるGX建設機械試行工事に関する調査委託業務",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（１）件名\n令和８年度福島復興現場におけるGX建設機械試行工事に関する調査委託業務",
+            "start": 730,
+            "end": 771,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "budget": {
+          "value_raw": null,
+          "status": "not_stated_in_examined_document",
+          "evidence": null
+        },
+        "proposal_deadline": {
+          "value_raw": null,
+          "status": "not_stated_in_examined_document",
+          "evidence": null
+        },
+        "bid_submission_deadline": {
+          "value_raw": null,
+          "status": "not_stated_in_examined_document",
+          "evidence": null
+        },
+        "delivery_deadline": {
+          "value_raw": "令和９年３月26日",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（３）履行期限\n令和９年３月26日",
+            "start": 789,
+            "end": 806,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "qualification_grades": {
+          "value_raw": "「Ａ」、「Ｂ」又は「Ｃ」級",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（４）令和０７・０８・０９年度環境省競争参加資格（全省庁統一資格）「役務の提供等」の「調査・研究」において、開札時までに「Ａ」、「Ｂ」又は「Ｃ」級に格付されている者であること。\n（５）（４）以外の等級に格付けされている者であって、「技術力ある中小企業者等の入札参加機会拡大について（平成１２年１０月１０日）政府調達（公共事業を除く）手続の電子化推進省庁連絡会議幹事会決定」の要件を充たす者であること。",
+            "start": 1228,
+            "end": 1428,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          },
+          "note": "別等級の条件付き参加の例外あり。この等級列挙だけで参加可否を判定しない。"
+        }
+      }
+    },
+    {
+      "id": "budget-pdf",
+      "case_id": "cop30",
+      "source_url": "https://www.env.go.jp/content/000317013.pdf",
+      "observed_at": "2026-10-19T05:51:02.376742Z",
+      "source_raw_sha256": "4f5e4d3d6d4e48cfaaa1fb8c2d7de82c8f9d5f3b109bb9d8228391922d77ee68",
+      "normalized_text_sha256": "296299d6920ca8e81a6be37fc74f0fad9c1e57e9b7743aaae4a2b9f7d6012598",
+      "source_kind": "pdf",
+      "sector": "media",
+      "historical_format_example": true,
+      "current_application_status": "not_verified",
+      "attribution": "出典：環境省ホームページ（各原資料URL）。Evidence Data APIが項目を抽出・加工。環境省作成の未加工データではありません。",
+      "fields": {
+        "title": {
+          "value_raw": "令和７年度第30回気候変動枠組条約締約国会\n議等における情報発信事業委託業務",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "企 画 競 争 説 明 書\n令和７年度第30回気候変動枠組条約締約国会\n議等における情報発信事業委託業務",
+            "start": 0,
+            "end": 52,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "budget": {
+          "value_raw": "11,000万円（消費税及び地方消費税額を含む。）以内",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "３    予算額\n業務の予算総額は、11,000万円（消費税及び地方消費税額を含む。）以内とする。",
+            "start": 270,
+            "end": 319,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "proposal_deadline": {
+          "value_raw": "令和７年6月23日(月) 17時",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "７ 企画書等の提出書類、提出期限等\n（１）提出書類（別添１）\n① 企画書（添付資料を含めて綴じ込んだ１式）\n② 経費内訳書\n令和７年度第30回気候変動枠組条約締約国会議等における情報発信事業委託業務\nを実施するために必要な経費のすべての額（消費税及び地方消費税額を含む。）を\n記載した内訳書\n③ 提出者の概要（会社概要等）が分かる資料\n（２）提出期限\n① 提出期限\n令和７年6月23日(月) 17時",
+            "start": 1044,
+            "end": 1243,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        },
+        "bid_submission_deadline": {
+          "value_raw": null,
+          "status": "not_stated_in_examined_document",
+          "evidence": null
+        },
+        "delivery_deadline": {
+          "value_raw": null,
+          "status": "not_stated_in_examined_document",
+          "evidence": null
+        },
+        "qualification_grades": {
+          "value_raw": "「Ａ」、「Ｂ」、「Ｃ」又は\n「Ｄ」級",
+          "status": "reviewed_sample",
+          "evidence": {
+            "quote": "（４）令和０７・０８・０９年度環境省競争参加資格（全省庁統一資格）「役務の提供等」\nの「広告・宣伝」において、企画書等の提出期限までに「Ａ」、「Ｂ」、「Ｃ」又は\n「Ｄ」級に格付されている者であること。",
+            "start": 499,
+            "end": 599,
+            "coordinate_system": "Unicode code points in saved normalized text"
+          }
+        }
+      }
+    }
+  ]
+}

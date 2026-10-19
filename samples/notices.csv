@@ -1,0 +1,33 @@
+﻿id,case_id,source_url,observed_at,historical_format_example,current_application_status,attribution,title_raw,title_status,title_quote,budget_raw,budget_status,budget_quote,proposal_deadline_raw,proposal_deadline_status,proposal_deadline_quote,bid_submission_deadline_raw,bid_submission_deadline_status,bid_submission_deadline_quote,delivery_deadline_raw,delivery_deadline_status,delivery_deadline_quote,qualification_grades_raw,qualification_grades_status,qualification_grades_quote
+video-html,video,https://www.env.go.jp/kanbo/chotatsu/chotatsu_03842.html,2026-10-19T05:49:48.881686Z,True,not_verified,出典：環境省ホームページ（各原資料URL）。Evidence Data APIが項目を抽出・加工。環境省作成の未加工データではありません。,令和８年度地域脱炭素推進に向けた情報交換会開催・運営及び概算要求映像作成委託業務［総合評価落札方式］,reviewed_sample,"（１）件名
+令和８年度地域脱炭素推進に向けた情報交換会開催・運営及び概算要求映像作成委託業務［総合評価落札方式］",,not_stated_in_examined_document,,令和８年４月６日（月）１７時００分まで,reviewed_sample,"（１）提案書の提出について
+期限　令和８年４月６日（月）１７時００分まで",,not_stated_in_examined_document,,令和９年３月３１日,reviewed_sample,"（３）納入期限
+令和９年３月３１日",「Ａ」、「Ｂ」、「Ｃ」又は「Ｄ」級,reviewed_sample,（４）令和０７・０８・０９年度環境省競争参加資格（全省庁統一資格）「役務の提供等」の「調査・研究」又は「その他」において、開札時までに「Ａ」、「Ｂ」、「Ｃ」又は「Ｄ」級に格付されている者であること。
+system-html,system,https://www.env.go.jp/kanbo/chotatsu/chotatsu_04376.html,2026-10-19T05:49:53.964635Z,True,not_verified,出典：環境省ホームページ（各原資料URL）。Evidence Data APIが項目を抽出・加工。環境省作成の未加工データではありません。,令和８年度Ｊ－クレジット制度におけるMRV支援システムの運用支援等委託業務【総合評価落札方式】,reviewed_sample,（１）件　　名　令和８年度Ｊ－クレジット制度におけるMRV支援システムの運用支援等委託業務【総合評価落札方式】,,not_stated_in_examined_document,,令和8年10月15日(木)　17時00分まで,reviewed_sample,"（１）環境省競争参加資格（全省庁統一資格）審査結果通知書（写し）及び提案書の提出について
+期限　　令和8年10月15日(木)　17時00分まで",,not_stated_in_examined_document,,令和9年3月31日(水),reviewed_sample,（３）納入期限　令和9年3月31日(水),「Ａ」、「Ｂ」、「Ｃ」又は「Ｄ」級,reviewed_sample,（４）令和０７・０８・０９年度環境省競争参加資格（全省庁統一資格）「役務の提供等」の「調査・研究」において、開札時までに「Ａ」、「Ｂ」、「Ｃ」又は「Ｄ」級に格付されている者であること。
+impact-html,impact,https://www.env.go.jp/kanbo/chotatsu/chotatsu_04392.html,2026-10-19T05:49:59.096456Z,True,not_verified,出典：環境省ホームページ（各原資料URL）。Evidence Data APIが項目を抽出・加工。環境省作成の未加工データではありません。,令和８年度環境分野におけるインパクト投資に関する調査委託業務 〔総合評価落札方式〕,reviewed_sample,（１）件名　　　令和８年度環境分野におけるインパクト投資に関する調査委託業務 〔総合評価落札方式〕,,not_stated_in_examined_document,,令和８年 10 月 29 日（木） 17 時まで,reviewed_sample,"（１）提案書の提出について
+期限　 令和８年 10 月 29 日（木） 17 時まで",,not_stated_in_examined_document,,令和９年３月 30 日（火）,reviewed_sample,（３）納入期限　令和９年３月 30 日（火）,"「Ａ」、「Ｂ」、「Ｃ」又は
+「Ｄ」級",reviewed_sample,"（４）令和０７・０８・０９年度環境省競争参加資格（全省庁統一資格）「役務の提供等」の「調査・研究」において、開札時までに「Ａ」、「Ｂ」、「Ｃ」又は
+「Ｄ」級に格付されている者であること。"
+gx-html,gx,https://www.env.go.jp/kanbo/chotatsu/chotatsu_04399.html,2026-10-19T05:50:04.172376Z,True,not_verified,出典：環境省ホームページ（各原資料URL）。Evidence Data APIが項目を抽出・加工。環境省作成の未加工データではありません。,令和８年度福島復興現場におけるGX建設機械試行工事に関する調査委託業務,reviewed_sample,"（１）件名
+令和８年度福島復興現場におけるGX建設機械試行工事に関する調査委託業務",,not_stated_in_examined_document,,,not_stated_in_examined_document,,,not_stated_in_examined_document,,令和９年３月26日,reviewed_sample,"（３）履行期限
+令和９年３月26日",「Ａ」、「Ｂ」又は「Ｃ」級,reviewed_sample,"（４）令和０７・０８・０９年度環境省競争参加資格（全省庁統一資格）「役務の提供等」の「調査・研究」において、開札時までに「Ａ」、「Ｂ」又は「Ｃ」級に格付されている者であること。
+（５）（４）以外の等級に格付けされている者であって、「技術力ある中小企業者等の入札参加機会拡大について（平成１２年１０月１０日）政府調達（公共事業を除く）手続の電子化推進省庁連絡会議幹事会決定」の要件を充たす者であること。"
+budget-pdf,cop30,https://www.env.go.jp/content/000317013.pdf,2026-10-19T05:51:02.376742Z,True,not_verified,出典：環境省ホームページ（各原資料URL）。Evidence Data APIが項目を抽出・加工。環境省作成の未加工データではありません。,"令和７年度第30回気候変動枠組条約締約国会
+議等における情報発信事業委託業務",reviewed_sample,"企 画 競 争 説 明 書
+令和７年度第30回気候変動枠組条約締約国会
+議等における情報発信事業委託業務","11,000万円（消費税及び地方消費税額を含む。）以内",reviewed_sample,"３    予算額
+業務の予算総額は、11,000万円（消費税及び地方消費税額を含む。）以内とする。",令和７年6月23日(月) 17時,reviewed_sample,"７ 企画書等の提出書類、提出期限等
+（１）提出書類（別添１）
+① 企画書（添付資料を含めて綴じ込んだ１式）
+② 経費内訳書
+令和７年度第30回気候変動枠組条約締約国会議等における情報発信事業委託業務
+を実施するために必要な経費のすべての額（消費税及び地方消費税額を含む。）を
+記載した内訳書
+③ 提出者の概要（会社概要等）が分かる資料
+（２）提出期限
+① 提出期限
+令和７年6月23日(月) 17時",,not_stated_in_examined_document,,,not_stated_in_examined_document,,"「Ａ」、「Ｂ」、「Ｃ」又は
+「Ｄ」級",reviewed_sample,"（４）令和０７・０８・０９年度環境省競争参加資格（全省庁統一資格）「役務の提供等」
+の「広告・宣伝」において、企画書等の提出期限までに「Ａ」、「Ｂ」、「Ｃ」又は
+「Ｄ」級に格付されている者であること。"
